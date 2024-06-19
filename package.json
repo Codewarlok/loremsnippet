@@ -1,0 +1,20 @@
+{
+  "name": "lorem-snippet",
+  "displayName": "Lorem-snippet",
+  "description": "Inserta parrafos de lorem ipsum en tu html",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
