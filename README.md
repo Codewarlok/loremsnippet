@@ -1,5 +1,7 @@
 # lorem-snippet README
 
+Chanta parrafos de lorem ipsum en tu html.
+cambio
 This is the README for your extension "lorem-snippet". After writing up a brief description, we recommend including the following sections.
 
 ## Features
